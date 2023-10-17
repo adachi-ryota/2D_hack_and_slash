@@ -7,3 +7,4 @@
 
 # 勉強用
 - [node.jsでTypeScript+Phaserなブラウザゲーム開発環境を作る](https://tech.e3factory.com/programming/2551)
+- [Phaser-サンプルゲーム作成まで-](https://note.com/_kikiyo_/n/n350a43dcbf37)
