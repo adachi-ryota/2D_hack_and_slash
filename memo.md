@@ -10,10 +10,9 @@
 - スライムは乗り換え？一期一会を大事に‼
 
 ## 使用ライブラリ
-- 候補
-  - phaser
-    - https://phaser.io/
-- typescript使ったほうが便利
+- phaser
+  - https://phaser.io/
+- typescript
 
 ## 勉強用
 - [node.jsでTypeScript+Phaserなブラウザゲーム開発環境を作る](https://tech.e3factory.com/programming/2551)
